@@ -1,9 +1,9 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AkmalFairuz/MultiVersion
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NurAzliYT/MultiVersion-Pmmp
 build-by-default: true
 branches:
 - master
 projects:
-  MultiVersion:
+  MultiVersion-Pmmp:
     path: ""
     icon: "resources/icon.png"
 ...
